@@ -26,7 +26,7 @@ void print8(int n ){
 int main(){
     int n ;
     cin>>n;
-    print8(n);
+    print8(n); 
     
     return 0;
 }
